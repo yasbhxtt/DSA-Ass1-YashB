@@ -1,7 +1,7 @@
 #pragma once
 
 
-//user.h 
+//user.h - user data struct // defines user structure, faction, random user generation and printing
 #ifndef USER_H
 #define USER_H
 

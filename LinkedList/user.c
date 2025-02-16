@@ -4,7 +4,7 @@
 #include <string.h>
 #include <time.h>
 
-//user.c - main generator for users details
+//user.c - main generator for users details // implementation of random username and random users, and printing user details
 
 char getRandomChar() {  //function to get random character for usernames
     char charset[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";  //list of all possible characters
